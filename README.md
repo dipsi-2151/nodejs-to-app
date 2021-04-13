@@ -10,7 +10,7 @@
 <li> Body-parser - This extracts the entire body portion of an incoming request stream and exposes it on req.body </li>
 </ul>
 
-![png](https://raw.githubusercontent.com/dipsi-2151/nodejs-to-app/main/todo.png')
+![todo](https://user-images.githubusercontent.com/43219420/114545014-0c85c000-9c79-11eb-8379-78a02847f848.png)
 
 <br>
 
@@ -23,4 +23,5 @@
 
 <li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
 </ol>
+
 
